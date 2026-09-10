@@ -16,6 +16,23 @@ Spotify's web player uses lazy loading and virtualized playlist rows, which mean
 * Requires no external libraries or installations
 * Runs directly inside the browser Developer Console
 
+## Why Is This Script Useful?
+
+This script gives you a simple way to extract track names and artist names from a playlist and keep them as a clean track list.
+
+Once you have this information, you can use it for many different purposes, such as:
+
+* Keeping a backup of your playlist's track list
+* Creating a clean and portable list of your music
+* Finding the same tracks from other sources
+* Downloading tracks from legal and freely available sources
+* Using the extracted information in other music-related tools or projects
+* Processing, organizing, or managing your music collection
+* Building your own workflows around the extracted metadata
+
+The extracted information is yours to use as the basis for whatever legal purpose you need.
+
+
 ## Requirements
 
 * A desktop browser
